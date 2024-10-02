@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { alpha, Paper } from '@mui/material';
+import { Paper } from '@mui/material';
 import Button from '@mui/material/Button';
 import Carousel from 'react-material-ui-carousel'
 

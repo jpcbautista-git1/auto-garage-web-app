@@ -1,6 +1,5 @@
 import * as React from 'react';
-import { alpha, Paper, Grid } from '@mui/material';
-import Button from '@mui/material/Button';
+import { Paper, Grid } from '@mui/material';
 import Carousel from 'react-material-ui-carousel'
 
 export default function SectionCarousel2() {
